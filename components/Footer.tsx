@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="text-primary tracking-tight">
           Designed and Developed by{" "}
           <Link href={"https://keshavbagaade.com"} className="font-bold">
-            Keshav
+          Mahendra Kumawat 
           </Link>
         </p>
       </div>
