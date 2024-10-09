@@ -236,7 +236,7 @@ const WalletGenerator = () => {
               >
                 <div className="flex flex-col gap-2">
                   <h1 className="tracking-tighter text-4xl md:text-5xl font-black">
-                    Kosh supports multiple blockchains
+                    PUll supports multiple blockchains
                   </h1>
                   <p className="text-primary/80 font-semibold text-lg md:text-xl">
                     Choose a blockchain to get started.
